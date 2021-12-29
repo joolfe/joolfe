@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jorge.
 
 <a href="https://www.linkedin.com/in/jorge-oliva-29291325/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/jorge-oliva-29291325/" target="_blank"><img src="https://img.shields.io/badge/-Coorporate_Account-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/jolivaSan" target="_blank"><img src="https://img.shields.io/badge/-Coorporate_Account-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
 ## My stats at github
  <div>
